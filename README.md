@@ -1,12 +1,14 @@
 # Hackathon
 Project for Website Portfolio , Authentification , To Do List,ATM
-
+ 
+ Group 12 
+ 
 Team Members 
 1.Moses Ochieng 
 2.Miriam Mukuhi
 3.Kelvin Chui
 4.Reuben KIgae
-5.Oniver OMoro
+5.Univer Omoro
 
 Project Implimentation
 
